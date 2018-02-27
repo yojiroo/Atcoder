@@ -1,12 +1,12 @@
 # Atcoder
-Atcoderの解答置き場
+Atcoder answers sandboxs
 
-+ ABCの問題をひたすら置く（現在進行形）
++ solve ABC problem
 
-+ 目標は10月までにABCの問題をすべて解き切る
++ The goal is to solve all ABC problems
 
-+ C++で書く
++ written by C++(sometimes Python or Ruby)
 
-+ 詳細はコメントで書く
++ Details are in comments
 
-+ ファイル名は開催した回数
++ File names are numbers about when ABC was held.
